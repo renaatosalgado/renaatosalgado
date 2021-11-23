@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I really enjoy hiking and trekking.
 
 ### Talk with me:
-[<img align="left" alt="Renato's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="blank"/>][linkedin]
+[<img align="left" alt="Renato's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>][linkedin]
 
 <br />
 
