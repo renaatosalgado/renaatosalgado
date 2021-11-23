@@ -21,7 +21,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.pngkit.com/png/detail/183-1838288_github-logo-svg-white.png" />
+<img align="left" alt="GitHub" width="26px" src="https://icons-for-free.com/iconfiles/png/512/github+hub+icon+icon-1320194641335079152.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
