@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source;
 - 💬 Ask me about nature and environment;
 - 😄 Pronouns: He/His;
-- ⚡ Fun fact: I really enjoy hiking and trekking.
+- ⚡ Fun fact: I really enjoy hiking and swimming.
 
 ### Talk with me:
 [<img align="left" alt="Renato's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
