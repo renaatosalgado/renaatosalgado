@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/His;
 - ⚡ Fun fact: I really enjoy hiking and swimming.
 
+[![wakatime](https://wakatime.com/badge/user/63dcc3e1-f21a-4e36-9222-c69edbfe6cb1.svg)](https://wakatime.com/@63dcc3e1-f21a-4e36-9222-c69edbfe6cb1)
+
 ### Talk with me:
 [<img align="left" alt="Renato's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
