@@ -7,12 +7,16 @@
 - 😄 Pronouns: He/His;
 - ⚡ Fun fact: I really enjoy hiking and swimming.
 
-[![wakatime](https://wakatime.com/badge/user/63dcc3e1-f21a-4e36-9222-c69edbfe6cb1.svg)](https://wakatime.com/@63dcc3e1-f21a-4e36-9222-c69edbfe6cb1)
+
 
 ### Talk with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+  </a>
+  
+   <a href="mailto:renaato.salgado@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
 </div>
 
@@ -63,10 +67,21 @@
   </a>  
 </div>
 
+<br />
+<br />
+
+---
 
 <br />
 <br />
----
+
+<div align="left"> 
+  <a href="https://wakatime.com/@63dcc3e1-f21a-4e36-9222-c69edbfe6cb1">
+    <img src="https://wakatime.com/badge/user/63dcc3e1-f21a-4e36-9222-c69edbfe6cb1.svg" title="Total time coded since Jul 5 2021" />
+  </a>
+</div>
+
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
