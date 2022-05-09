@@ -41,6 +41,10 @@
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="50em" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
+    <img src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" title="TypeScript" width="50em" />
+  </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50em" />
@@ -53,7 +57,19 @@
    <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
   </a>
- 
+  
+   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
+    <img src="https://w7.pngwing.com/pngs/567/191/png-transparent-postgresql-logo-scalable-graphics-computer-icons-open-source-svg-logo-head-snout.png" title="PostgreSQL" width="50em" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
+    <img src="https://www.svgrepo.com/show/353630/cypress.svg" title="CyPress" width="50em" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
+    <img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" title="Jest" width="50em" />
+  </a> 
+  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50em" />
   </a>
