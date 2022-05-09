@@ -16,7 +16,7 @@
   </a>
   
    <a href="mailto:renaato.salgado@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" />
   </a>
 </div>
 
@@ -31,11 +31,11 @@
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" width="50em" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML 5" width="50em" />
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="50em" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS 3" width="50em" />
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
@@ -47,11 +47,11 @@
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50em" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="ReactJS" width="50em" />
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" width="50em" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="NodeJS" width="50em" />
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
