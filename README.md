@@ -77,7 +77,7 @@
 
 <div align="left"> 
   <a href="https://wakatime.com/@63dcc3e1-f21a-4e36-9222-c69edbfe6cb1">
-    <img src="https://wakatime.com/badge/user/63dcc3e1-f21a-4e36-9222-c69edbfe6cb1.svg" title="Total time coded since Jul 5 2021" />
+    <img src="https://wakatime.com/badge/user/63dcc3e1-f21a-4e36-9222-c69edbfe6cb1.svg?style=for-the-badge" title="Total time coded since Jul 5 2021" />
   </a>
 </div>
 
