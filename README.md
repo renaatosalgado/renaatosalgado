@@ -43,7 +43,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
-    <img src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" title="TypeScript" width="50em" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" title="TypeScript" width="50em" />
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
@@ -59,7 +59,7 @@
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
-    <img src="https://w7.pngwing.com/pngs/567/191/png-transparent-postgresql-logo-scalable-graphics-computer-icons-open-source-svg-logo-head-snout.png" title="PostgreSQL" width="50em" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png" title="PostgreSQL" width="50em" />
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
