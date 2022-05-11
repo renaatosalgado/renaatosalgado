@@ -48,14 +48,19 @@
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="ReactJS" width="50em" />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/express.svg" title="express" width="50em" />
-  </a>
+  </a>  
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/nodejs.svg" title="NodeJS" width="50em" />
+  </a>
+  
+   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/express.svg" title="Express" width="50em" />
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnnYlmlxe67CtuSstx4oMBxW0eWi29jjWsm6lNQCQr6JFnEyzhmt7_ADtuH0_pqUn0GI&usqp=CAU" title="Prisma" width="50em" />
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
