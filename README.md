@@ -90,6 +90,10 @@
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50em" />
   </a>  
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
+    <img src="https://www.svgrepo.com/show/354126/npm-icon.svg" title="NPM" width="50em" />
+  </a> 
 </div>
 
 <br />
