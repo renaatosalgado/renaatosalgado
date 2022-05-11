@@ -60,7 +60,7 @@
   
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnnYlmlxe67CtuSstx4oMBxW0eWi29jjWsm6lNQCQr6JFnEyzhmt7_ADtuH0_pqUn0GI&usqp=CAU" title="Prisma" width="50em" />
+    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" title="Prisma" width="50em" />
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias-b5423b1b0/">
