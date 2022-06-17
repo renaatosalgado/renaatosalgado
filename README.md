@@ -35,6 +35,10 @@
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" />
+  </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
@@ -58,11 +62,11 @@
   
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" title="Prisma" width="50em" />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" title="Prisma" />
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
@@ -70,7 +74,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://www.svgrepo.com/show/353630/cypress.svg" title="CyPress" width="50em" />
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="CyPress" />
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
@@ -82,7 +86,7 @@
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50em" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" />
   </a>  
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
@@ -98,8 +102,13 @@
   </a> 
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/NPM-DB7093?style=for-the-badge&logo=npm&logoColor=white" title="NPM" width="50em" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM" />
   </a> 
+  
+   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" title="ESlint" />
+  </a> 
+  
 </div>
 
 <br />
