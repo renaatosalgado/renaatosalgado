@@ -98,7 +98,7 @@
   </a> 
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://www.svgrepo.com/show/354126/npm-icon.svg" title="NPM" width="50em" />
+    <img src="https://img.shields.io/badge/NPM-DB7093?style=for-the-badge&logo=npm&logoColor=white" title="NPM" width="50em" />
   </a> 
 </div>
 
