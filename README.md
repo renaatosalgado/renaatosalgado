@@ -20,14 +20,10 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens:
 
 <div align="center" style="margin: auto" >
   
- <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" />
-  </a>
- 
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5" />
   </a>
@@ -37,17 +33,27 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" />
-  </a>
- 
-  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
   </a>
- 
+  
+</div>
+
+### Softwares e bibliotecas:
+
+<div align="center" style="margin: auto" >
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" title="Styled Components" />
+  </a> 
+  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="ReactJS" />
   </a>  
@@ -56,22 +62,33 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" />
   </a>
   
-   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" />
+  </a>  
+  
+</div>
+
+### Banco de dados e ORM:
+
+<div align="center" style="margin: auto" >
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
   </a>
   
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" />
+  </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" title="Prisma" />
   </a>
   
-   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
-  </a>
+</div>
   
-   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" />
-  </a>
+### Testes automatizados:
+
+<div align="center" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="CyPress" />
@@ -81,6 +98,24 @@
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" />
   </a> 
   
+</div>
+  
+### Ferramentas e utilitários:
+
+<div align="center" style="margin: auto" >
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM" />
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" title="ESlint" />
+  </a>   
+  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
   </a>
@@ -89,24 +124,18 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" />
   </a>  
   
-  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+</div>
+
+### Deploy e produção:
+
+<div align="center" style="margin: auto" >
+  
+    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" />
   </a> 
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" />
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" title="Styled Components" />
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM" />
-  </a> 
-  
-   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" title="ESlint" />
   </a> 
   
 </div>
