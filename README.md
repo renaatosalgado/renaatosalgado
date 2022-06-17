@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-<div align="left" style="margin: auto" >
+<div align="center" style="margin: auto" >
   
  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="50em" />
