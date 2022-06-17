@@ -102,7 +102,7 @@
   
 ### Ferramentas e utilitários:
 
-<div align="center" style="margin: auto" >
+<div align="start" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" />
@@ -130,7 +130,7 @@
 
 <div align="center" style="margin: auto" >
   
-    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" />
   </a> 
   
