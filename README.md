@@ -7,7 +7,7 @@
 
 
 
-### Fale comigo:
+## Fale comigo:
 <div align="left">
   <a href="https://www.linkedin.com/in/renato-salgado-dias">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
@@ -20,9 +20,9 @@
 
 <br />
 
-### Linguagens:
+## Linguagens
 
-<div align="center" style="margin: auto" >
+<div align="start" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5" />
@@ -42,9 +42,9 @@
   
 </div>
 
-### Softwares e bibliotecas:
+## Softwares e bibliotecas
 
-<div align="center" style="margin: auto" >
+<div align="start" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" />
@@ -68,9 +68,9 @@
   
 </div>
 
-### Banco de dados e ORM:
+## Banco de dados e ORM
 
-<div align="center" style="margin: auto" >
+<div align="start" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
@@ -86,9 +86,9 @@
   
 </div>
   
-### Testes automatizados:
+## Testes automatizados
 
-<div align="center" style="margin: auto" >
+<div align="start" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="CyPress" />
@@ -100,7 +100,7 @@
   
 </div>
   
-### Ferramentas e utilitários:
+## Ferramentas e utilitários
 
 <div align="start" style="margin: auto" >
   
@@ -126,9 +126,9 @@
   
 </div>
 
-### Deploy e produção:
+## Deploy e produção
 
-<div align="center" style="margin: auto" >
+<div align="start" style="margin: auto" >
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" />
