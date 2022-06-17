@@ -62,7 +62,7 @@
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
+    <img src="https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
   </a>
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
@@ -78,7 +78,7 @@
   </a> 
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" width="50em" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
   </a>
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
