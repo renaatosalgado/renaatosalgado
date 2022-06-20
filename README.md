@@ -1,7 +1,7 @@
 ### Olá, meu nome é Renato 😎
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento web;
-- 🌱 Atualmente estou aprendendo React e Node;
+- 🌱 Aprendendo React e Node;
 - 💬 Pergunte-me sobre natureza e meio ambiente;
 - ⚡ Curiosidade: gosto muito de fazer trilhas, nadar e escalar rochas!
 
