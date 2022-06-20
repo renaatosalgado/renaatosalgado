@@ -147,7 +147,7 @@
   </a> 
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
+    <img src="https://img.shields.io/badge/Docker-290ddb?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
   </a> 
   
 </div>
