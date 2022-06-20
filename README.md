@@ -142,6 +142,10 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" />
   </a> 
   
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white" title="AWS" />
+  </a> 
+  
 </div>
 
 <br />
