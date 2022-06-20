@@ -121,11 +121,11 @@
   </a>   
  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/Ubuntu-b50ddb?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" />
   </a>  
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/Prettier-E95420?style=for-the-badge&logo=prettier&logoColor=white" title="Prettier" />
+    <img src="https://img.shields.io/badge/Prettier-b50ddb?style=for-the-badge&logo=prettier&logoColor=white" title="Prettier" />
   </a> 
   
 </div>
