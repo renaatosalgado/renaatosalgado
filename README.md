@@ -146,6 +146,10 @@
     <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white" title="AWS" />
   </a> 
   
+   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
+  </a> 
+  
 </div>
 
 <br />
