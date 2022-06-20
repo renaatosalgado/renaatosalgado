@@ -124,6 +124,10 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" />
   </a>  
   
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/Prettier-E95420?style=for-the-badge&logo=prettier&logoColor=white" title="Prettier" />
+  </a> 
+  
 </div>
 
 ## Deploy e produção
