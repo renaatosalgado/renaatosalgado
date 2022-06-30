@@ -44,10 +44,6 @@
     <img src="https://img.shields.io/badge/Python-033dfc?style=for-the-badge&logo=python&logoColor=white" title="Python" />
   </a>
   
-  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp&logoColor=white" title="C#" />
-  </a>
-  
 </div>
 
 ## Softwares e bibliotecas
