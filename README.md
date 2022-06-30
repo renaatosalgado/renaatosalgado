@@ -40,6 +40,10 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
   </a>
   
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" title="Python" />
+  </a>
+  
 </div>
 
 ## Softwares e bibliotecas
