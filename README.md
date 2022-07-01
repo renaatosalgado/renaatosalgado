@@ -88,6 +88,10 @@
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" title="Prisma" />
   </a>
   
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-3982CE?style=for-the-badge&logo=redis&logoColor=white" title="Prisma" />
+  </a>
+  
 </div>
   
 ## Testes automatizados
