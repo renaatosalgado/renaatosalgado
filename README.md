@@ -89,7 +89,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-C21325?style=for-the-badge&logo=redis&logoColor=white" title="Prisma" />
+    <img src="https://img.shields.io/badge/Redis-C21325?style=for-the-badge&logo=redis&logoColor=white" title="Redis" />
   </a>
   
 </div>
