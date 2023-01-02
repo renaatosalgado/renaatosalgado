@@ -93,7 +93,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-C21325?style=for-the-badge&logo=redis&logoColor=white" title="MySQL" />
+    <img src="https://img.shields.io/badge/SQSServer-f5d442?style=for-the-badge&logo=sqlserver&logoColor=white" title="SQSServer" />
   </a>
   
 </div>
