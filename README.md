@@ -1,7 +1,7 @@
 ### Olá, meu nome é Renato 😎
 
-- 🔭 Atualmente estou trabalhando em desenvolvimento web;
-- 🌱 Aprendendo React e Node;
+- 🔭 Atualmente estou trabalhando em desenvolvimento web, com C#, JQuery e SQLServer
+- 🌱 Aprendendo ReactJS e NodeJS;
 - 💬 Pergunte-me sobre natureza e meio ambiente;
 - ⚡ Curiosidade: gosto muito de fazer trilhas, nadar e escalar rochas!
 
@@ -93,7 +93,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/microsoftsqlserver-f5d442?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="Mycrosoft SQLServer" />
+    <img src="https://img.shields.io/badge/microsoftsqlserver-f5d442?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" title="Mycrosoft SQLServer" />
   </a>
   
 </div>
