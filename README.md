@@ -45,7 +45,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/csharp-033dfc?style=for-the-badge&logo=csharp&logoColor=white" title="C#" />
+    <img src="https://img.shields.io/badge/csharp-339933?style=for-the-badge&logo=csharp&logoColor=white" title="C#" />
   </a>
   
 </div>
