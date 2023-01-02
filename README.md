@@ -63,7 +63,7 @@
   </a> 
   
    <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/jquery-DB7093?style=for-the-badge&logo=jquery&logoColor=white" title="JQuery" />
+    <img src="https://img.shields.io/badge/jquery-white?style=for-the-badge&logo=jquery&logoColor=4257f5" title="JQuery" />
   </a> 
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
@@ -107,7 +107,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/nhibernate-f5d442?style=for-the-badge&logo=nhibernate&logoColor=black" title="NHibernate" />
+    <img src="https://img.shields.io/badge/nhibernate-f5d442?style=for-the-badge&logo=hibernate&logoColor=black" title="NHibernate" />
   </a>
   
 </div>
