@@ -93,7 +93,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLServer-f5d442?style=for-the-badge&logo=sqlserver&logoColor=white" title="SQLServer" />
+    <img src="https://img.shields.io/badge/microsoftsqlserver-f5d442?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="Mycrosoft SQLServer" />
   </a>
   
 </div>
@@ -155,11 +155,11 @@
   </a> 
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
-    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white" title="AWS" />
-  </a> 
-  
-   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/Docker-290ddb?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white" title="AWS" />
   </a>
   
 </div>
