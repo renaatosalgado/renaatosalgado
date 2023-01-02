@@ -93,7 +93,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/microsoftsqlserver-f5d442?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" title="Mycrosoft SQLServer" />
+    <img src="https://img.shields.io/badge/microsoftsqlserver-f5d442?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" title="Mycrosoft SQL Server" />
   </a>
   
 </div>
