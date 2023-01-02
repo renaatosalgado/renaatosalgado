@@ -62,6 +62,10 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" title="Styled Components" />
   </a> 
   
+   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
+    <img src="https://img.shields.io/badge/jquery-DB7093?style=for-the-badge&logo=jquery&logoColor=white" title="JQuery" />
+  </a> 
+  
   <a href="https://www.linkedin.com/in/renato-salgado-dias/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="ReactJS" />
   </a>  
@@ -73,6 +77,8 @@
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" />
   </a>  
+  
+  
   
 </div>
 
@@ -98,6 +104,10 @@
   
   <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
     <img src="https://img.shields.io/badge/microsoftsqlserver-f5d442?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" title="Mycrosoft SQL Server" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-salgado-dias/" target="_blank">
+    <img src="https://img.shields.io/badge/nhibernate-f5d442?style=for-the-badge&logo=nhibernate&logoColor=black" title="NHibernate" />
   </a>
   
 </div>
