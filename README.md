@@ -1,11 +1,9 @@
 ### Olá, meu nome é Renato 😎
 
-- 🔭 Atualmente estou trabalhando em desenvolvimento web, com C#, JQuery e SQLServer
-- 🌱 Aprendendo ReactJS e NodeJS;
+- 🔭 Atualmente estou trabalhando em desenvolvimento web, com C# e SQLServer
+- 🌱 Aprendendo ReactJS;
 - 💬 Pergunte-me sobre natureza e meio ambiente;
-- ⚡ Curiosidade: gosto muito de fazer trilhas, nadar e escalar rochas!
-
-
+- ⚡ Curiosidade: gosto muito de fazer trilhas, nadar e escalar montanhas!
 
 ## Fale comigo:
 <div align="left">
